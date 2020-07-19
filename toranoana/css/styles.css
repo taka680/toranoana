@@ -1,0 +1,64 @@
+@import url(sanitize.css);
+
+body {
+  background-color: rgb(169, 241, 241);
+  font-family: Verdana, sans-serif;
+}
+
+.maintitle  h1 {
+    width: 500px;
+    display: flex;
+    background-color: rgb(243, 158, 0);
+    color: yellow;
+    font-size: 60px;
+    padding: 10px 30px;
+    border-width: 6px;
+    border-style: solid;
+    border-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 20px;
+}
+
+.maintitle img {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+  padding-left: 20px;
+  border-width: 3px;
+  border-style: solid;
+  float: left;
+}
+
+header {
+  font-size: 18px;
+  margin-top: 0;
+  text-align: center;
+
+}
+
+
+footer h2 {
+  font-size: 20px;
+
+}
+
+.name {
+  font-size: 15px;
+}
+
+
+.syoucyou {
+  display: inline-block;
+  /* width: 300px; */
+  /* float: left; */
+}
+
+.mail {
+  font-size: 15px;
+
+}
+
+
+
+
